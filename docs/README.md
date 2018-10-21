@@ -31,7 +31,7 @@ require 'asciiart' # providing access to ASCII art gem
 require_relative 'page3' #providing access other story page files
 require_relative 'page4'
 require_relative 'page5'
-require_relative 'page6'
+
 
 module Page2 #creating first story page file
     def self.text #defining a method which provides access to the file's text
